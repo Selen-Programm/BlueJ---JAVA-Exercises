@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Barco
+comment1.params=
+comment1.target=int\ getEslora()
+comment2.params=eslora
+comment2.target=void\ setEslora(int)
+comment3.params=
+comment3.target=int\ getManga()
+comment4.params=manga
+comment4.target=void\ setManga(int)
+comment5.params=
+comment5.target=java.lang.String\ getPosicion()
+comment6.params=posicion
+comment6.target=void\ setPosicion(java.lang.String)
+comment7.params=
+comment7.target=void\ Navegar()
+comment8.params=
+comment8.target=void\ Anclar()
+comment9.params=
+comment9.target=void\ MiVehiculo()
+numComments=10

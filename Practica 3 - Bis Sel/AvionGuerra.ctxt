@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AvionGuerra
+comment1.params=
+comment1.target=int\ getCantidadDeBombasTotales()
+comment2.params=getCantidadDeBombasTotales
+comment2.target=void\ getCantidadDeBombasTotales(int)
+comment3.params=
+comment3.target=int\ getCantidadDeBombasDisponibles()
+comment4.params=cantidadDeBombasDisponibles
+comment4.target=void\ setCantidadDeBombasDisponibles(int)
+comment5.params=
+comment5.target=int\ getAlturaDelVuelo()
+comment6.params=alturaDelVuelo
+comment6.target=void\ setAlturaDelVuelo(int)
+comment7.params=cantidadDeBombasTotales
+comment7.target=void\ disparar(int)
+comment8.params=valor
+comment8.target=void\ ascender(int)
+numComments=9

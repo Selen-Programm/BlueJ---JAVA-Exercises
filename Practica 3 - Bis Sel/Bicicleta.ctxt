@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bicicleta
+comment1.params=
+comment1.target=int\ getCambios()
+comment2.params=cambios
+comment2.target=void\ setCambios(int)
+comment3.params=
+comment3.target=void\ Pedalear()
+comment4.params=
+comment4.target=void\ CambiarMarcha()
+comment5.params=
+comment5.target=void\ MiVehiculo()
+numComments=6

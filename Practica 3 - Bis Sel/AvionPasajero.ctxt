@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=AvionPasajero
+comment1.params=
+comment1.target=int\ getCantidadDeAsientosDelAvion()
+comment10.params=
+comment10.target=boolean\ vueloHabilitado()
+comment11.params=
+comment11.target=boolean\ Despegar()
+comment12.params=
+comment12.target=void\ MiVehiculo()
+comment2.params=cantidadDeAsientosDelAvion
+comment2.target=void\ setCantidadDeAsientosDelAvion(int)
+comment3.params=
+comment3.target=int\ getCantidadTripulantes()
+comment4.params=cantidadTripulantes
+comment4.target=void\ setCantidadTripulantes(int)
+comment5.params=
+comment5.target=int\ getPasajerosPrimeraClase()
+comment6.params=pasajerosPrimeraClase
+comment6.target=void\ setPasajerosPrimeraClase(int)
+comment7.params=
+comment7.target=int\ getPasajerosClaseTurista()
+comment8.params=pasajerosClaseTurista
+comment8.target=void\ setPasajerosClaseTurista(int)
+comment9.params=
+comment9.target=boolean\ hayLugar()
+numComments=13

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AvionCarga
+comment1.params=cargaMaxima\ cargaActual\ cantidadDeBultos\ velocidadDeVuelo
+comment1.target=AvionCarga(int,\ int,\ int,\ int)
+comment2.params=valor
+comment2.target=void\ cargarBodega(int)
+comment3.params=valor
+comment3.target=void\ descargarBodega(int)
+comment4.params=valorAumento
+comment4.target=void\ aumentarVelocidadDeVuelo(int)
+numComments=5
